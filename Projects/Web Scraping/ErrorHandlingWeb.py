@@ -9,7 +9,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 6,
+   "execution_count": 1,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -18,7 +18,7 @@
     "from IPython.display import Markdown, display\n",
     "import warnings\n",
     "warnings.filterwarnings('ignore')\n",
-    "timeout_glob=0.05\n",
+    "timeout_glob=2\n",
     "verify_glob=True\n",
     "allow_glob=False\n",
     "def printmd(string):\n",
